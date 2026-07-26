@@ -1,0 +1,1 @@
+# Osteoporosis-Risk-Analysis-Data-Validation-using-Power-BI
