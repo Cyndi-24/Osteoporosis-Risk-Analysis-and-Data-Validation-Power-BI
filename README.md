@@ -1,5 +1,5 @@
 # Osteoporosis-Risk-Analysis-Data-Validation
-# By Ofolebe Cyndi
+## By Ofolebe Cyndi
 
 
 # Project Overview 
