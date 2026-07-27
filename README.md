@@ -1,20 +1,20 @@
-# Osteoporosis-Risk-Analysis-Data-Validation
+# Osteoporosis Risk Analysis & Data Validation
 ## By Ofolebe Cyndi
 
 
 # Project Overview 
-This project demonstrates an end-to-end healthcare analytics workflow using Power BI, with a strong emphasis on data quality assessment, validation, and responsible interpretation of synthetic healthcare data.
-Rather than simply building dashboards, this project investigates the reliability of the dataset before drawing analytical conclusions. During the analysis, multiple biological inconsistencies and structural issues were identified, documented, and incorporated into the final interpretation.
+This project demonstrates an end-to-end healthcare analytics workflow using Power BI, with a strong emphasis on data quality assessment, validation, and responsible interpretation of synthetic healthcare data.Rather than simply building dashboards, this project investigates the reliability of the dataset before drawing analytical conclusions. During the analysis, multiple biological inconsistencies and structural issues were identified, documented, and incorporated into the final interpretation.
 This project showcases both technical Power BI skills and analytical thinking expected in healthcare and business intelligence roles.
-Objectives
+
+# Objectives
 The project aimed to:
-Build an interactive healthcare dashboard using Power BI.
-Analyse osteoporosis prevalence and associated risk factors.
-Validate the quality of the dataset before generating insights.
-Identify biological inconsistencies and potential modelling issues.
-Demonstrate transparent reporting by documenting data limitations.
-ns.
-🛠 Tools Used
+* Build an interactive healthcare dashboard using Power BI.
+* Analyse osteoporosis prevalence and associated risk factors.
+* Validate the quality of the dataset before generating insights.
+* Identify biological inconsistencies and potential modelling issues.
+* Demonstrate transparent reporting by documenting data limitations.
+  
+# Tools Used
 Power BI Desktop
 Power Query
 DAX
