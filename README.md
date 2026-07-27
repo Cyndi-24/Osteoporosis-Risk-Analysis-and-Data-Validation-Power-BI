@@ -4,6 +4,7 @@
 
 # Project Overview 
 This project demonstrates an end-to-end healthcare analytics workflow using Power BI, with a strong emphasis on data quality assessment, validation, and responsible interpretation of synthetic healthcare data.Rather than simply building dashboards, this project investigates the reliability of the dataset before drawing analytical conclusions. During the analysis, multiple biological inconsistencies and structural issues were identified, documented, and incorporated into the final interpretation.This project showcases both technical Power BI skills and analytical thinking expected in healthcare and business intelligence roles.
+
 Osteoporosis is a disease that weakens your bones and makes them much more likely to fracture.It makes your bones thinner and less dense than they should be. The symptoms include: Changes in your natural posture, like stooping or bending forward more, Shortness of breath, Lower back pain.The risk factors include;age, sex, BMI, dietary defiencies, pre-existing medical conditions and life style.
 
 # Objectives
