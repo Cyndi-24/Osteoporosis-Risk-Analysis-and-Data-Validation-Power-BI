@@ -40,14 +40,17 @@ The project aimed to:
   
  Analytical Questions
 1. What is the overall burden of osteoporosis in the study population?
+   
 Finding:The dataset contained 1,958 participants with an overall osteoporosis prevalence of 50%.
 Interpretation:The prevalence appeared unusually balanced, prompting further investigation into the dataset's structure.
 
-2. Which demographic groups appear to have the highest osteoporosis burden?
+3. Which demographic groups appear to have the highest osteoporosis burden?
+   
 Finding: Older adults showed higher osteoporosis prevalence, while racial and gender distributions appeared almost perfectly balanced.
 Interpretation: Although the age trend aligns with clinical expectations, the demographic balance suggested the dataset might be synthetic.
 
-3. How are patients distributed across risk categories?
+5. How are patients distributed across risk categories?
+   
 Finding: The population was almost evenly divided between the two categories.
 Business Value Risk stratification helps healthcare professionals prioritise preventive interventions and resource allocation.
 
