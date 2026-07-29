@@ -16,15 +16,14 @@ The project aimed to:
 * Demonstrate transparent reporting by documenting data limitations.
   
 # Tools Used
-* Power BI Desktop
+* Microsoft Power BI 
 * Power Query
 * DAX
 * Microsoft Excel
 * Data Validation Techniques
   
 # Skills Demonstrated
-* Healthcare Data Analytics
-* Healthcare Data Interpretation
+* Healthcare Data Analytics and Interpretation
 * Power BI Dashboard Development
 * Power Query
 * DAX Measures
@@ -44,12 +43,12 @@ The project aimed to:
 Finding:The dataset contained 1,958 participants with an overall osteoporosis prevalence of 50%.
 Interpretation:The prevalence appeared unusually balanced, prompting further investigation into the dataset's structure.
 
-3. Which demographic groups appear to have the highest osteoporosis burden?
+2. Which demographic groups appear to have the highest osteoporosis burden?
    
 Finding: Older adults showed higher osteoporosis prevalence, while racial and gender distributions appeared almost perfectly balanced.
 Interpretation: Although the age trend aligns with clinical expectations, the demographic balance suggested the dataset might be synthetic.
 
-5. How are patients distributed across risk categories?
+3. How are patients distributed across risk categories?
    
 Finding: The population was almost evenly divided between the two categories.
 Business Value Risk stratification helps healthcare professionals prioritise preventive interventions and resource allocation.
@@ -74,14 +73,17 @@ Finding: Patients using corticosteroids showed a slightly higher prevalence of o
 Interpretation:This aligns with established clinical evidence, although conclusions should be interpreted cautiously because the dataset is synthetic.
 
 4. Is the dataset suitable for predictive modelling?
+
 Finding :The dataset was clean and suitable for practising machine learning workflows, but not representative of real-world clinical populations.
 
 # Clinical Findings
+
 * Osteoporosis prevalence increases significantly among older age groups.
 * Patients using corticosteroids showed slightly higher osteoporosis prevalence.
 * Family history and lifestyle factors remain important contributors to osteoporosis risk.
   
 # Data Quality Findings/Dataset Limitations
+
 During validation, several issues were identified.
 * Biological inconsistencies
 Examples included impossible combinations such as male patients labelled as postmenopausal.
@@ -92,5 +94,5 @@ Risk factors displayed identical distributions across age groups, reducing clini
 These findings demonstrate why validating data quality is essential before communicating analytical results.
 
 # Conclusion
-The dataset is appropriate for demonstrating analytical techniques, dashboard development, and modelling workflows. It should not be used to draw epidemiological or clinical conclusions.
+The dataset is appropriate for demonstrating analytical techniques, dashboard development, and modelling workflows but it should not be used to draw epidemiological or clinical conclusions.
  
