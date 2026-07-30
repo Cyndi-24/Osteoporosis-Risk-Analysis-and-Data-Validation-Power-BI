@@ -30,6 +30,8 @@ The project aimed to:
 * DAX Measures
 * KPI Design
 * Data Cleaning
+![image alt] (https://github.com/Cyndi-24/Osteoporosis-Risk-Analysis-and-Data-Validation-Power-BI/blob/main/osteoporosis%20project/images/datac_leaning.png)
+  
 * Data Validation
 * Exploratory Data Analysis
 
