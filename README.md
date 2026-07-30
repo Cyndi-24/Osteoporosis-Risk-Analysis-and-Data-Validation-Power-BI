@@ -55,13 +55,16 @@ Interpretation: Although the age trend aligns with clinical expectations, the de
 Finding: The population was almost evenly divided between the two categories.
 Business Value Risk stratification helps healthcare professionals prioritise preventive interventions and resource allocation.
 
-## Data Validation Dashboard -developed specifically for quality assessment shifts the focus from "What does the data show?" to "Can the data be trusted?"
+## Data Validation Dashboard 
+### Developed specifically for quality assessment shifts the focus from "What does the data show?" to "Can the data be trusted?"
 
+![image alt](https://github.com/Cyndi-24/Osteoporosis-Risk-Analysis-and-Data-Validation-Power-BI/blob/main/osteoporosis%20project/images/risk_analysis.png)
 
 Analytical Questions
 1. Are the clinical variables biologically consistent?
 
 Finding:Records were identified where male patients were labelled as postmenopausal.
+
 Interpretation:This indicates data entry errors or synthetic noise generation which could lead to faulty clinical conclusions ,thus makking data validation necessary prior to analysis
 
 2. Are risk factors distributed realistically across age groups?
@@ -71,12 +74,13 @@ Interpretation:Real-world healthcare data rarely exhibits such uniformity, indic
 
 3. Does corticosteroid use appear to influence osteoporosis prevalence?
 
-Finding: Patients using corticosteroids showed a slightly higher prevalence of osteoporosis.
+Finding: Patients using corticosteroids showed a slightly higher prevalence of osteoporosis. 
+
 Interpretation:This aligns with established clinical evidence, although conclusions should be interpreted cautiously because the dataset is synthetic.
 
 4. Is the dataset suitable for predictive modelling?
 
-Finding :The dataset was clean and suitable for practising machine learning workflows, but not representative of real-world clinical populations.
+Finding: The dataset was clean and suitable for practicing machine learning workflows, but not representative of real-world clinical populations.
 
 # Clinical Findings
 
