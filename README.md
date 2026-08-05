@@ -4,10 +4,12 @@
 ![image alt](https://github.com/Cyndi-24/Osteoporosis-Risk-Analysis-and-Data-Validation-Power-BI/blob/main/osteoporosis%20project/images/osteoporosis%20image.png)
 
 # Project Overview 
-This project demonstrates an end-to-end healthcare analytics workflow using Power BI, with a strong emphasis on data quality assessment, validation, and responsible interpretation of synthetic healthcare data.Rather than simply building dashboards, this project investigates the reliability of the dataset before drawing analytical conclusions. During the analysis, multiple biological inconsistencies and structural issues were identified, documented, and incorporated into the final interpretation.This project showcases both technical Power BI skills and analytical thinking expected in healthcare and business intelligence roles.
 
-Osteoporosis is a disease that weakens your bones and makes them much more likely to fracture.It makes your bones thinner and less dense than they should be. The symptoms include: Changes in your natural posture, like stooping or bending forward more, Shortness of breath, Lower back pain.The risk factors include;age, sex, BMI, dietary defiencies, pre-existing medical conditions and life style.
+Healthcare dashboards are only valuable when the data behind them can be trusted. This project uses Power BI to analyse a synthetic osteoporosis dataset while checking whether the records are realistic, consistent, and suitable for meaningful interpretation.
 
+During the analysis, several concerns were identified, including male records marked as postmenopausal and patterns that appeared unusually balanced across different groups. These issues were clearly documented so the dashboard findings would not be mistaken for real-world clinical evidence.
+
+The project demonstrates data cleaning, validation, analysis, dashboard development, and responsible communication of data limitations.
 # Objectives
 The project aimed to:
 * Build an interactive healthcare dashboard using Power BI.
