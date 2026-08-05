@@ -10,20 +10,23 @@ Healthcare dashboards are only valuable when the data behind them can be trusted
 During the analysis, several concerns were identified, including male records marked as postmenopausal and patterns that appeared unusually balanced across different groups. These issues were clearly documented so the dashboard findings would not be mistaken for real-world clinical evidence.
 
 The project demonstrates data cleaning, validation, analysis, dashboard development, and responsible communication of data limitations.
+
 # Objectives
-The project aimed to:
-* Build an interactive healthcare dashboard using Power BI.
-* Analyse osteoporosis prevalence and associated risk factors.
-* Validate the quality of the dataset before generating insights.
-* Identify biological inconsistencies and potential modelling issues.
-* Demonstrate transparent reporting by documenting data limitations.
-  
+
+This project aimed to:
+
+- Assess whether the dataset was consistent, realistic, and suitable for meaningful analysis.
+- Explore osteoporosis patterns across demographic, lifestyle, and clinical factors.
+- Identify biological inconsistencies and unusual patterns that could affect interpretation.
+- Develop interactive Power BI dashboards presenting both analytical and data-quality findings.
+- Document the dataset’s limitations and clarify how its results should be used.
+
 # Tools Used
 * Microsoft Power BI 
 * Power Query
 * DAX
 * Microsoft Excel
-* Data Validation Techniques
+  
   
 # Skills Demonstrated
 * Healthcare Data Analytics and Interpretation
