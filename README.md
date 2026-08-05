@@ -26,20 +26,22 @@ This project aimed to:
 * Power Query
 * DAX
 * Microsoft Excel
-  
-  
+
+
 # Skills Demonstrated
-* Healthcare Data Analytics and Interpretation
-* Power BI Dashboard Development
-* Power Query
-* DAX Measures
-* KPI Design
-* Data Cleaning
+
+- Healthcare data analysis and responsible interpretation
+- Data cleaning, quality assessment, and validation
+- Power Query transformation
+- DAX measure and KPI development
+- Interactive dashboard design
+- Exploratory analysis and insight communication 
+
+# Data Preparation and Validation
+
+The dataset was cleaned and reviewed for missing values, duplicates, inconsistent categories, and unusual demographic or clinical records before analysis.
 ![image alt](https://github.com/Cyndi-24/Osteoporosis-Risk-Analysis-and-Data-Validation-Power-BI/blob/main/osteoporosis%20project/images/datac_leaning.png)
   
-* Data Validation
-* Exploratory Data Analysis
-
 
 # Dashboard Features
 ## Executive Dashboard - Showing Patient DemographicS
